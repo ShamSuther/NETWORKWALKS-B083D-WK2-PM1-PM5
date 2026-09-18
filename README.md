@@ -1,10 +1,6 @@
-<div align="center">
-
 # PENETRATION TESTING REPORT
 ## FOOTPRINTING & NETWORK SCANNING PHASES
 ### W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
-
-</div>
 
 ---
 
@@ -160,19 +156,19 @@ All screenshots referenced in this report are included in this repository:
 
 **Module 1: Footprinting**
 
-![PM1_whois](./Module 1/0_whois.png)
-![PM1_whatweb](./Module 1/1_whatweb.png)
-![PM1_nslookup](./Module 1/2_nslookup.png)
-![PM1_curl](./Module 1/3_curl_I.png)
-![PM1_wafw00f](./Module 1/4_wafw00f.png)
-![PM1_dns_recon](./Module 1/5_dns_recon.png)
+![PM1_whois](/Module 1/0_whois.png)
+![PM1_whatweb](/Module 1/1_whatweb.png)
+![PM1_nslookup](/Module 1/2_nslookup.png)
+![PM1_curl](/Module 1/3_curl_I.png)
+![PM1_wafw00f](/Module 1/4_wafw00f.png)
+![PM1_dns_recon](/Module 1/5_dns_recon.png)
 
 **Module 5: Network Scanning**
 
-![PM5_IPConfig](./Module 5/2_IPConfig.png)
-![PM5_Running_ZenMap](./Module 5/3_Running_ZenMap_for_Subnet.png)
-![PM5_Subnet_Topology](./Module 5/4_Subnet_Topology.png)
-![PM5_Exporting_the_Topology](./Module 5/5_Exporting_the_Topology_as_pdf.png)
+![PM5_IPConfig](/Module 5/2_IPConfig.png)
+![PM5_Running_ZenMap](/Module 5/3_Running_ZenMap_for_Subnet.png)
+![PM5_Subnet_Topology](/Module 5/4_Subnet_Topology.png)
+![PM5_Exporting_the_Topology](/Module 5/5_Exporting_the_Topology_as_pdf.png)
 
 
 ## Author
